@@ -31,4 +31,5 @@ jobs:
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
           git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/yulu0131/yulu0131.github.io.git
+          cd personal-site
           npm run deploy
