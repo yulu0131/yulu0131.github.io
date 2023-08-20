@@ -1,7 +1,7 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://yulu0131.github.io/",
+  "homepage": "https://localhost:3000/",
   "license": "MIT",
   "repository": {
     "type": "git",
