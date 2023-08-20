@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yulu0131/yulu0131.github.io.git"
+    "url": "https://localhost:3000/"
   },
   "engines": {
     "node": ">=14.x"
