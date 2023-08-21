@@ -15,7 +15,7 @@ const data = [
   {
     title: 'OptShare',
     subtitle: 'Option Data Interface Library.',
-    link: 'https://volsurface.readthedocs.io/',
+    link: 'https://optshare.readthedocs.io/',
     image: '/images/projects/optshare.png',
     date: '2023-02-20',
     desc:
