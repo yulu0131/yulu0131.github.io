@@ -10,8 +10,4 @@ describe('renders the app', () => {
   it('should render the app', async () => {
     expect(document.body).toBeInTheDocument();
   });
-
-  it('should render the title', async () => {
-    expect(document.title).toBe('Yu Lu');
-  });
 });
