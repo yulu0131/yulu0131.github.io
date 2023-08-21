@@ -19,7 +19,7 @@ const data = [
     image: '/images/projects/optshare.png',
     date: '2023-02-20',
     desc:
-      'OptShare is a Python-based option data interface library, designed to provide easy-to-use option data, index data, and market yield data. '
+      'OptShare is a Python-based option data interface library, designed to provide easy-to-use option data, index data, and market yield data. ',
   },
 ];
 

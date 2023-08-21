@@ -1,27 +1,21 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
-import Markdown from 'markdown-to-jsx';
 
 import Main from '../layouts/Main';
 
 import Education from '../components/Resume/Education';
 import Experience from '../components/Resume/Experience';
 import Skills from '../components/Resume/Skills';
-import Courses from '../components/Resume/Courses';
-import References from '../components/Resume/References';
 
-import courses from '../data/resume/courses';
 import degrees from '../data/resume/degrees';
 import work from '../data/resume/work';
 import { skills, categories } from '../data/resume/skills';
-
 
 const sections = {
   Education: () => <Education data={degrees} />,
   Experience: () => <Experience data={work} />,
   Skills: () => <Skills skills={skills} categories={categories} />,
 };
-
 
 const About = () => (
   <Main

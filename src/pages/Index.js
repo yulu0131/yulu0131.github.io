@@ -13,7 +13,7 @@ const Index = () => (
         <div className="title">
           <h2><Link to="/">Introduction</Link></h2>
           <p>
-            I am a financial engineer in a leading Fintech company with a concentration on programming and modelling in C++ and python. Finance graduate with strong research and communication skills. 
+            I am a financial engineer concentrated on financial modelling.
           </p>
         </div>
       </header>
