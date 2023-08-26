@@ -25,7 +25,7 @@ const About = () => (
     <article className="post" id="resume">
       <header>
         <div className="title">
-          <h2><Link to="about">About</Link></h2>
+          <h2><Link to="about">About Me</Link></h2>
           <div className="link-container">
             {Object.keys(sections).map((sec) => (
               <h4 key={sec}>
