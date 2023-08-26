@@ -8,9 +8,7 @@ const data = [
     date: '2023-08-14',
     desc:
       'Web Data Service Development for Option Volatility'
-      + 'SVI modelling supports, with both original method by Gatheral (2004) and Quasi-Explicit Method by Zeliade Systems(2009)'
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      + 'SVI modelling supports, with both original method by Gatheral (2004) and Quasi-Explicit Method by Zeliade Systems(2009)',
   },
   {
     title: 'OptShare',
