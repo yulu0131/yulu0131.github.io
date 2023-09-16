@@ -6,14 +6,17 @@ import Main from '../layouts/Main';
 import Education from '../components/Resume/Education';
 import Experience from '../components/Resume/Experience';
 import Skills from '../components/Resume/Skills';
+import Research from '../components/Resume/Research';
 
 import degrees from '../data/resume/degrees';
 import work from '../data/resume/work';
+import research from '../data/resume/research';
 import { skills, categories } from '../data/resume/skills';
 
 const sections = {
   Education: () => <Education data={degrees} />,
   Experience: () => <Experience data={work} />,
+  Research: () => <Research data={research} />,
   Skills: () => <Skills skills={skills} categories={categories} />,
 };
 
