@@ -14,7 +14,7 @@
 const work = [
   {
     name: 'YieldChain Co.',
-    position: 'Financial Engineer',
+    position: 'Senior Quantitative Researcher',
     url: '',
     startDate: '2021-09',
     summary: 'Fintech company concentrated on risk modelling, derivative valuation, financial data, front desk deal, etc.',
