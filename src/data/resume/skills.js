@@ -81,8 +81,8 @@ const skills = [
   },
   {
     title: 'CUDA',
-    competency: 4,
-    category: ['Languages', 'C++'],
+    competency: 5,
+    category: ['Languages', 'Financial Modelling', 'C++', 'ML Engineering'],
   },
   {
     title: 'Axure',

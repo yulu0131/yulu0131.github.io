@@ -22,7 +22,7 @@ const research = [
     highlights: [
       'Developed an advanced Monte Carlo engine utilizing modern algorithms and enhanced stochastic process discretization. Incorporated the FASTNORM Algorithm, tripling computational efficiency.',
       'Leveraged vectorization and OpenMP-based multi-threading programming techniques in contemporary CPU architectures, boosting computing speeds by 40x.',
-      'Implemented a GPU-driven Monte Carlo algorithm, realizing a speed increase of over 100x compared to traditional methods.',
+      'Implemented a GPU-driven Monte Carlo algorithm with CUDA programming, realizing a speed increase of over 100x compared to traditional methods.',
     ],
   },
   {
